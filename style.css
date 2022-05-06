@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#start{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#no_of_objects,#status{
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    background-color: rgb(253, 97, 100);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-weight: 600;
+}
+canvas{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(248, 248, 248);
+    
+
+}
